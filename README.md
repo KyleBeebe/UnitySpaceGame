@@ -17,14 +17,14 @@ Description:
  Controls
  ---------
  
-P :  pause 
-wasd : movement 
-q or esc : exit
-left mouse button : shoot gun
-right mouse button 
+-P :  pause 
+-wasd : movement 
+-q or esc : exit
+-left mouse button : shoot gun
+-right mouse button 
     -click once : shoot grapple
     -hold : grapple to point 
-space bar : jump
+-space bar : jump
 
 You have a laser pistol on your left click and grapple on your right. You have a health bar in the top left. Death restarts you back at the clone chamber. Click the grapple once to attach it to a wall, your movement is restricted while tethered to geometry. If you hold right click while attached to something, your grapple reels and pulls you toward the point where your grapple is bound to. There are enemy robots in each area of the game. The sentries are bound to walls and will track you with their lasers, dealing damage to you for while the lasers touch you. There are flying robots and rolling robots. Shoot them to kill them. They will explode on death. There are two end rooms from the two branching directions at the start. One will bring you to a greenhouse cylinder area where you can break the glass on the gardens and set the plants on fire with your gun. The other end area is a core room with the rolling robots. All of the wall tiles here are deformable if you shoot them enough.
  </p>
